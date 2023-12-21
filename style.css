@@ -1,3 +1,5 @@
+body {
+}
 * {
   padding: 0;
   margin: 0;
@@ -93,4 +95,30 @@ nav {
 .filtr {
   width: 250px;
   margin-right: 10px;
+}
+
+.discounts_section_blck_title {
+  margin: 25px 0;
+  border: solid 1px black;
+  border-radius: 10px;
+  width: 25%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.discounts {
+  border: solid 1px black;
+  border-radius: 10px;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+.discounts_item {
+  border: solid 1px black;
+  border-radius: 10px;
+  width: 270px;
+  height: 150px;
 }
