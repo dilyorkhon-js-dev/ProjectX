@@ -28,6 +28,7 @@ nav {
   justify-content: center;
   justify-content: space-between;
   align-items: center;
+  gap: 10px;
 }
 .first_section {
   display: flex;
